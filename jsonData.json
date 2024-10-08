@@ -1,0 +1,24 @@
+{
+    "Catalog": {
+        "Products": [
+            {
+                "ProductID": "101",
+                "Name": "Smartphone",
+                "Category": "Electronics",
+                "Price": 299.99,
+                "Stock": 25,
+                "Description": "A high-quality smartphone with excellent features.",
+                "ImageURL": "/images/smartphone.jpg"
+            },
+            {
+                "ProductID": "102",
+                "Name": "Laptop",
+                "Category": "Electronics",
+                "Price": 799.99,
+                "Stock": 15,
+                "Description": "A powerful laptop suitable for all your needs.",
+                "ImageURL": "/images/laptop.jpg"
+            }
+        ]
+    }
+}
